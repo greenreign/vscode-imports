@@ -22,7 +22,7 @@
     "target": "es2018",
     "baseUrl": "./",
     "paths": {
-      "@models": ["libs/models/src"]
+      "@models/*": ["libs/models/src/*"]
     }
   },
   "compileOnSave": true

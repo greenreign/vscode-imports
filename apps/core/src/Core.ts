@@ -1,1 +1,3 @@
-export class Core {}
+export class Core {
+  private model: VSCodeShouldFindMe;
+}
